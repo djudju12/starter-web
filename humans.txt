@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    teste rebase
 
 # TECHNOLOGY COLOPHON
 
